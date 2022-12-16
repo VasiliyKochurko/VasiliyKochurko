@@ -1,5 +1,8 @@
 ### Hi there 👋
-https://www.codewars.com/users/whi5k3y/badges/micro
+
+![Alt text](https://www.codewars.com/users/whi5k3y/badges/micro)
+<img src="https://www.codewars.com/users/whi5k3y/badges/micro">
+
 <!--
 **VasiliyKochurko/VasiliyKochurko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
