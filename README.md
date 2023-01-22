@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="400"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VasiliyKochurko&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VasiliyKochurko&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 <div>
