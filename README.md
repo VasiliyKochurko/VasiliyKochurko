@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="400"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whi5k3y&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VasiliyKochurko&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
