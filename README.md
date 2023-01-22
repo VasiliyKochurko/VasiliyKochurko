@@ -7,7 +7,7 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VasiliyKochurko&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyKochurko&layout=compact&theme=buefy-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyKochurko&layout=compact&theme=buefydark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
